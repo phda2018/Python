@@ -5,6 +5,7 @@ public class StringUtil {
 	public static void main(String[] args) {
 		
 		System.out.println("this is my git programe");
+		System.out.println("simple change");
 
 	}
 
